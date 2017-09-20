@@ -1,1 +1,1 @@
-# first_neural_net
+# dlnd_first_neural_net
